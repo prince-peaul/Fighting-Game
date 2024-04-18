@@ -1,2 +1,2 @@
 # Fighting-Game
-Make a real world game using JavaScript.
+A real world game made by JavaScript.
